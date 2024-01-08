@@ -1,1 +1,1 @@
-# [アカウント紹介](https://rampotchi.github.io/account)
+# [アカウント紹介](https://rampotchi.github.io/)
