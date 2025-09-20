@@ -1,1 +1,1 @@
-# [サイト](https://rampo.f5.si)
+# [サイト](https://rampotchi.com)
